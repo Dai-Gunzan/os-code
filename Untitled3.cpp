@@ -1,3 +1,4 @@
+//674244121-ภัคพล เจียมจารีกุล
 #include <windows.h>
 #include <stdio.h>
 
@@ -41,4 +42,5 @@ int main() {
 
     return 0;
 }
+
 
